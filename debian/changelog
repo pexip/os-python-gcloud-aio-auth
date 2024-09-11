@@ -1,0 +1,5 @@
+python-gcloud-aio-auth (5.3.2-0+pexip24u1) pexip; urgency=medium
+
+  * Prepare Pexip Packaging
+
+ -- Huw Jones <huw@pexip.com>  Wed, 11 Sep 2024 09:50:29 +0000
