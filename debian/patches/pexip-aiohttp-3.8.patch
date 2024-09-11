@@ -1,0 +1,10 @@
+--- a/gcloud/aio/auth/session.py
++++ b/gcloud/aio/auth/session.py
+@@ -214,7 +214,6 @@
+             resp = await self.session.get(
+                 url, headers=headers,
+                 timeout=timeout, params=params,
+-                auto_decompress=auto_decompress,
+             )
+             await _raise_for_status(resp)
+             return resp
