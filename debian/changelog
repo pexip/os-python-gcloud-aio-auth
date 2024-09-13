@@ -1,3 +1,9 @@
+python-gcloud-aio-auth (5.3.2-0+pexip24u2) pexip; urgency=medium
+
+  * No change rebuild
+
+ -- Huw Jones <huw@pexip.com>  Fri, 13 Sep 2024 15:37:52 +0100
+
 python-gcloud-aio-auth (5.3.2-0+pexip24u1) pexip; urgency=medium
 
   * Prepare Pexip Packaging
