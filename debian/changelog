@@ -1,3 +1,9 @@
+python-gcloud-aio-auth (5.3.2-0+pexip25u1) pexip-trixie; urgency=medium
+
+  * Initial trixie build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 29 Apr 2025 22:53:29 +0100
+
 python-gcloud-aio-auth (5.3.2-0+pexip24u2) pexip; urgency=medium
 
   * No change rebuild
