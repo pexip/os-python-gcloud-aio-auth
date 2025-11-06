@@ -2,6 +2,7 @@ python-gcloud-aio-auth (5.3.2-0+pexip25u2) pexip-trixie; urgency=medium
 
   * Enable unit tests
   * d/p: retire aiohttp 3.8 patch
+  * d/p: bump max cryptography version to 46.x
 
  -- Huw Jones <huw@pexip.com>  Thu, 06 Nov 2025 14:57:40 +0000
 
