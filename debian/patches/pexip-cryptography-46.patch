@@ -1,3 +1,5 @@
+Increase maximum allowable cryptography version to 46 to match PexOS
+
 --- a/pyproject.toml
 +++ b/pyproject.toml
 @@ -25,7 +25,7 @@
